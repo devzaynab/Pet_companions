@@ -1,0 +1,14 @@
+{
+  "name": "pet_companions",
+  "version": "1.0.0",
+  "description": "landind page for pet_companions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zaynab",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
